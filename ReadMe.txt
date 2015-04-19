@@ -1,6 +1,6 @@
 The URL of My game.
 
-googledrive.com/host/0B2ROetkwSJeIMHNLZjR0TTlua0E/
+http://googledrive.com/host/0B2ROetkwSJeIMHNLZjR0TTlua0E/
 
 This is not a original game,I cite it from the the (http://examples.phaser.io/).
 
